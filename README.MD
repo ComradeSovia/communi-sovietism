@@ -18,17 +18,17 @@ They represent parallel readings based on the same core material.
 
 ## Files
 
-- [Deutsch](MANIFEST.DE.MD)  
-- [Español](MANIFEST.ES.MD)  
-- [العربية](MANIFEST.AR.MD)  
-- [中文](MANIFEST.CH.MD)  
-- [English](MANIFEST.EN.MD)  
-- [Français](MANIFEST.FR.MD)  
-- [한국어 한자 혼용](MANIFEST.HGG.MD)  
-- [한국어](MANIFEST.HGL.MD)  
-- [日本語](MANIFEST.NHG.MD)  
-- [Русский](MANIFEST.RU.MD)  
+- [Русский](MANIFEST.RU.MD)
+- [Deutsch](MANIFEST.DE.MD)
+- [Français](MANIFEST.FR.MD)
+- [English](MANIFEST.EN.MD)
+- [Español](MANIFEST.ES.MD)
+- [العربية](MANIFEST.AR.MD)
+- [中文](MANIFEST.CH.MD)
 - [简中文](MANIFEST.ZH.MD)
+- [한국어 한자 혼용](MANIFEST.HGG.MD)
+- [한국어](MANIFEST.HGL.MD)
+- [日本語](MANIFEST.NHG.MD)
 
 ---
 
