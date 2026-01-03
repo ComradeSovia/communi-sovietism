@@ -2,7 +2,7 @@
 
 ![Assignment](https://img.shields.io/badge/assignment-school%20homework-lightgrey)
 ![Student](https://img.shields.io/badge/student-Sovia%20Ivanovna%20Rabocheva-blue)
-![Guardian](https://img.shields.io/badge/guardian-Sovia%20Ivanovna%20Rabocheva-green)
+![Guardian](https://img.shields.io/badge/guardian-Katya%20Glebovna%20Belgina-green)
 
 ![Reference image](photo-20260102-2122-MT.png)
 
